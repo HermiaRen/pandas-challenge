@@ -1,0 +1,11 @@
+Overall, most students in this area can pass their math and reading exams and achieve decent scores. The average math score and average reading score are both around 70 in these 15 schools with a total of 39,170 students. On this aspect, students seem to have quite balanced study results in both subjects. However, the percentage of students passing math is about 2% higher than the percentage passing reading. In this regard, students in this area show a better ability in math than in reading. The overall passing percentage is significantly lower than the passing percentages for either math or reading, which suggests that there are quite a few students who may struggle in one subject and perform better in the other one.
+
+Among the top 5 highest-performing schools, there are three independent schools and two government schools. Independent schools have better performance than government schools, even though they have smaller size and less budget than government schools. In all these top-performing schools, the ratio of students passing math is slightly higher than those passing reading. The average math scores are also higher than the reading scores. It seems that, in general, students from the top five best-performing schools might be better at math.
+
+In the five lowest-performing schools, there is only one independent school, and the rest are government schools. Their school sizes and budgets vary. Compared to the overall data of this area, these worst-performing schools have lower average scores and passing percentages in both math and reading. However, those schools seem to struggle more in math than in reading, as the gap between their math performance and the overall average is larger than the gap in reading.
+
+All of those schools show quite balanced teaching results across all years, as there is no outstanding or terrible year in any of the schools.
+
+Regarding personal spending range, students with less than $630 spending generally have better study results than those who spend more. The best performance comes from the spending range of $585-$630. Spending more on schools doesn't necessarily result in better scores.
+
+Considering the size of schools, smaller schools tend to perform better overall than larger schools. Besides, the data shows that the larger the school size is, the worse their performance tends to be.
